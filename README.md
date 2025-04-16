@@ -1,3 +1,13 @@
+#h1 Introduction
+Repo with tips + required files to keep Windows spying to a minimum.
+
+#h1 Shutdown.bat explainer
+Simple batch script that does 3 things in the following order. 
+1. Clears dns cache
+2. Clears events log (analytic and debug logs will be preserved).
+3. Shuts down the computer (it does so with the /f flag, so make sure work is saved before running this).
+
+#h1 Hosts tutorial
 **Ideally**
 1. Go to C:\Windows\System32\drivers\etc
 2. Replace hosts file with the hosts file in this repository.
