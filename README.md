@@ -9,17 +9,17 @@
 4. Make sure it displays "All Files (*.*)" (if it's on "Text Documents (*.txt)" the hosts file won't show up)
 5. Copy paste the following below the default comments (lines starting with #)
 
-127.0.0.1       localhost
-::1             localhost
-127.0.0.1  data.microsoft.com
-127.0.0.1  msftconnecttest.com
-127.0.0.1  azureedge.net
-127.0.0.1  activity.windows.com
-127.0.0.1  bingapis.com
-127.0.0.1  msedge.net
-127.0.0.1  assets.msn.com
-127.0.0.1  scorecardresearch.com
-127.0.0.1  edge.microsoft.com
-127.0.0.1  data.msn.com
+127.0.0.1       localhost <br/>
+::1             localhost <br/>
+127.0.0.1  data.microsoft.com <br/>
+127.0.0.1  msftconnecttest.com <br/>
+127.0.0.1  azureedge.net <br/>
+127.0.0.1  activity.windows.com <br/>
+127.0.0.1  bingapis.com <br/>
+127.0.0.1  msedge.net <br/>
+127.0.0.1  assets.msn.com <br/>
+127.0.0.1  scorecardresearch.com <br/>
+127.0.0.1  edge.microsoft.com <br/>
+127.0.0.1  data.msn.com <br/>
 
 6. Save the file
