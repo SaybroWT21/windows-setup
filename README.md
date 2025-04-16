@@ -1,6 +1,3 @@
-# Introduction
-Repo with tips + required files to keep Windows spying to a minimum.
-
 # Shutdown.bat script explainer
 Simple batch script that does 3 things in the following order. 
 1. Clears DNS cache
