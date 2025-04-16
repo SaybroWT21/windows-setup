@@ -18,7 +18,7 @@ Simple batch script that does 3 things in the following order.
 3. Navigate to the hosts file, it's located at C:\Windows\System32\drivers\etc
 4. Make sure it displays "All Files (*.*)" (if it's on "Text Documents (*.txt)" the hosts file won't show up)
 5. Copy paste the text following this list below the default comments (lines starting with #).
-6. Make sure that each entry (ip-adress + hostname) is on a separate line (this readme is setup such that this will be the case by copy pasting).
+6. Make sure that each entry (ip-adress + hostname) is on a separate line (this readme is setup such that this will be the case by copy pasting from this readme).
 7. Save the file
 
 127.0.0.1       localhost <br/>
