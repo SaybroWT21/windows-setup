@@ -3,7 +3,7 @@ Repo with tips + required files to keep Windows spying to a minimum.
 
 # Shutdown.bat script explainer
 Simple batch script that does 3 things in the following order. 
-1. Clears dns cache
+1. Clears DNS cache
 2. Clears events log (analytic and debug logs will be preserved).
 3. Shuts down the computer (it does so with the /f flag, so make sure work is saved before running this).
 
