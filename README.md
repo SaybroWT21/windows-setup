@@ -20,7 +20,7 @@ If you don't want the script to shutdown your computer when its finished feel fr
 3. Navigate to the hosts file located at C:\Windows\System32\drivers\etc
 4. Make sure it displays "All Files (*.*)" (if it's on "Text Documents (*.txt)" the hosts file won't show up)
 5. Copy paste the text following this list below the default comments (lines starting with #)
-6. Make sure that each entry (ip-adress + hostname) is on a separate line (this readme is set up such that this will be the case by copy pasting from this readme).
+6. Make sure that each entry (ip-adress + hostname) is on a separate line (this readme is set up such that this will be the case by copy pasting from here).
 7. Save the file
 
 127.0.0.1       localhost <br/>
