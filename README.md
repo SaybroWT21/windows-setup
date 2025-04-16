@@ -4,7 +4,7 @@ Simple batch script that does 3 things in the following order.
 2. Clears events log (analytic and debug logs will be preserved)
 3. Shuts down the computer (it does so with the /f flag, so make sure work is saved before running this) <br/>
 
-If you don't want the script to shutdown your computer when its finished feel free to delete the entire ":shutdown" section in the batch file. Don't forget to remove the "goto :shutdown" line.
+If you don't want the script to shut down your computer when its finished feel free to delete the entire ":shutdown" section in the batch file. Don't forget to remove the "goto :shutdown" line.
 
 # Hosts file tutorial
 **Ideally**
