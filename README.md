@@ -32,4 +32,4 @@ Simple batch script that does 3 things in the following order.
 127.0.0.1  assets.msn.com <br/>
 127.0.0.1  scorecardresearch.com <br/>
 127.0.0.1  edge.microsoft.com <br/>
-127.0.0.1  data.msn.com <br/>
+127.0.0.1  data.msn.com
